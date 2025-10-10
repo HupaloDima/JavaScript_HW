@@ -215,7 +215,6 @@ let value;
 if (!value) {
     value = 'default'
 }
-;
 
 
 // #awLXL6TBzg
